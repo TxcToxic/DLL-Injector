@@ -1,0 +1,8 @@
+D:\Visual Studio\source\DLL Injector\DLL Injector\bin\Release\DLL Injector.exe.config
+D:\Visual Studio\source\DLL Injector\DLL Injector\bin\Release\DLL Injector.exe
+D:\Visual Studio\source\DLL Injector\DLL Injector\bin\Release\DLL Injector.pdb
+D:\Visual Studio\source\DLL Injector\DLL Injector\obj\Release\DLL Injector.csproj.AssemblyReference.cache
+D:\Visual Studio\source\DLL Injector\DLL Injector\obj\Release\DLL Injector.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\source\DLL Injector\DLL Injector\obj\Release\DLL Injector.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\DLL Injector\DLL Injector\obj\Release\DLL Injector.exe
+D:\Visual Studio\source\DLL Injector\DLL Injector\obj\Release\DLL Injector.pdb
